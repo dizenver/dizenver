@@ -6,6 +6,7 @@ I'm Diz
 
 - 🌍  I'm based in Minneapolis
 - 🧠  I'm learning Full Stack Javascript through The Odin Project
+- ⏳  Also learning UI/UX Design with Figma in the down time I have.
 
 ### Skills
 
